@@ -18,9 +18,8 @@ I am an aspiring **Web Developer** always learning new technologies.
 I create small projects to practice and improve my coding skills.
 
 ## Contact
-- GitHub: [salarskills632](https://github.com/ziakills)  
-- YouTube: (add your link if any)  
-- Email: (add your email if you want)
+- GitHub: [salarskills632](https://github.com/ziakills)   
+- Email: (salarskills632@gmail.com)
 
 # first-project
 My first GitHub project
